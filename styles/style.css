@@ -12,6 +12,7 @@ img {
   display: block;
   margin: 50px auto;
   border-radius: 20px;
+  border: 2px solid black;
 }
 
 h1 {
@@ -35,4 +36,12 @@ li {
 
 .remove-space {
   margin: 2px;
+}
+
+.button {
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+  width: 200px;
+  height: 25px;
 }
