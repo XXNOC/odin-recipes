@@ -4,12 +4,25 @@
 }
 img {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 50px auto;
 }
-
+h1 {
+  margin: 50px auto;
+}
+p {
+  margin: 50px 400px;
+}
 ul,
 ol {
   text-align: center;
   list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+li {
+  padding: 5px;
+}
+
+.remove-space {
+  margin: 2px;
 }
