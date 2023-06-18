@@ -1,6 +1,7 @@
 * {
   text-align: center;
   font-family: sans-serif;
+  background-color: #f5f5dc;
 }
 
 #gordon-ramsay {
@@ -39,9 +40,18 @@ li {
 }
 
 .button {
-  background-color: black;
-  color: white;
-  border-radius: 20px;
+  background-color: #dcdcf5;
+  color: black;
+  border-radius: 12px;
+  border: 2px solid black;
   width: 200px;
   height: 25px;
+  transition-duration: 0.4s;
+  font-weight: bold;
+}
+
+.button:hover {
+  background-color: #dcdcf5;
+  border: 2px solid white;
+  color: white;
 }
