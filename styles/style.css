@@ -5,7 +5,9 @@
 
 #gordon-ramsay {
   width: 22%;
+  height: auto;
 }
+
 img {
   display: block;
   margin: 50px auto;
