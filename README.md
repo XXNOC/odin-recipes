@@ -1,6 +1,6 @@
-# Odin Project Recipes Project
+# The Odin Project Recipes Project
 
-Made for odin projects recipes project.<br> 
+Made for the odin projects recipes project.<br>
 This site displays 3 recipes recommended by me.
 
 Things i learned from this project:
