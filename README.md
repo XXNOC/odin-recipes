@@ -11,4 +11,4 @@ Things i learned from this project:
 - Basic html.
 - Basic css.
 
-View live site [HERE](https://xxnoc.github.io/odin-recipes/){:target="_blank" rel="noopener"}
+View live site <a href="[placeholder.com](https://xxnoc.github.io/odin-recipes/)https://xxnoc.github.io/odin-recipes/" target="_blank">HERE</a>
