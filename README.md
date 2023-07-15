@@ -11,4 +11,4 @@ Things i learned from this project:
 - Basic html.
 - Basic css.
 
-View live site [HERE](https://xxnoc.github.io/odin-recipes/)
+View live site [HERE](https://xxnoc.github.io/odin-recipes/){:target="_blank"}
