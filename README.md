@@ -1,4 +1,4 @@
-# The Odin Project Recipes Project
+# The Odin Project: Recipes Project
 
 Made for the odin projects recipes project.<br>
 This site displays 3 recipes recommended by me.
