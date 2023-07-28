@@ -1,6 +1,4 @@
-# The Odin Project: Recipes Project
-
-Made for the odin projects recipes project.<br>
+# The Odin Project: Recipes
 
 Things i learned from this project:
 
