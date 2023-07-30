@@ -2,6 +2,9 @@
   text-align: center;
   font-family: sans-serif;
   background-color: #f5f5dc;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 #gordon-ramsay {
@@ -54,4 +57,18 @@ li {
   background-color: #dcdcf5;
   border: 2px solid white;
   color: white;
+}
+
+.footer a {
+  color: #6795f1;
+  text-decoration: none;
+  transition-duration: 0.4s;
+}
+.footer a:hover {
+  color: #1064eb;
+  text-decoration: none;
+}
+
+.footerText {
+  margin: 10px auto 0px auto;
 }
