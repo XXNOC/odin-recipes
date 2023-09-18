@@ -8,4 +8,4 @@ Basic website for showcasing recipes.
 
 ## [Live Site](https://xxnoc.github.io/odin-recipes/)
 
-![Landing Page](https://www.site-shot.com/cached_image/sz-QnFYDEe6x1AJCrBEAAg)
+![Landing Page](https://www.imghost.net/ib/BzUmq0Fs0m0ewlY_1695030177.png)
